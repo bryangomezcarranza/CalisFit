@@ -1,6 +1,6 @@
 # CalisFit
 
-CalisFit is an App that gives users the ability to share their Calisthenics work out videos. Users are able to check in to Locations and can be seen by other users. 
+CalisFit is an App that gives users the ability to share their Calisthenics work out videos. Users are able to check in and out of Locations (Gyms/Crossfit Gyms/ Calisthenic Parks) 
 
 ## Main Goal
 
