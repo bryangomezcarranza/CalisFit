@@ -13,7 +13,7 @@ As someone that loves to do Calisthenics, I want to provide people that are bare
 Four years ago when I had recently became interested in Calisthenic I wish I could have found an app that provided this. I did not know anyone that had the same passion as me, nor knew of gyms that provided the equipment nessesary to do the type of work outs. On top of that, I never had the chance to share my progress with anyone to get feed back on my form/work outs. 
 
 ## Frameworks
-CloudKit
-AVFoundations
-UserNotifications
+CloudKit,
+AVFoundations,
+UserNotifications,
 MapKit/Core Location
