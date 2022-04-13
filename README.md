@@ -2,6 +2,12 @@
 
 CalisFit is an App that gives users the ability to share their Calisthenics work out videos. Users are able to check in and out of Locations (Gyms/Crossfit Gyms/ Calisthenic Parks) 
 
+### Frameworks
+CloudKit,
+AVFoundations,
+UserNotifications,
+MapKit/Core Location
+
 ## Main Goal
 
 Goal is to form a little Calisthenic Community where people can share their videos (progress videos) and receive positive feedback by others. A place where users  can meet other people near them for the chance to find work out buddies. 
